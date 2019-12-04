@@ -4,6 +4,6 @@
 3. Book online : https://community.qiskit.org/textbook/
 
 ### Algorithms:
-1. https://medium.com/@jonathan_hui/qc-quantum-algorithm-with-an-example-cf22c0b1ec31
-2. Grover: https://medium.com/@jonathan_hui/qc-grovers-algorithm-cd81e61cf248
+1. Deutsch-Jozsa Algorithm : https://medium.com/@jonathan_hui/qc-quantum-algorithm-with-an-example-cf22c0b1ec31
+2. Grover Algorithm: https://medium.com/@jonathan_hui/qc-grovers-algorithm-cd81e61cf248
 
