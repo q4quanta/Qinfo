@@ -5,4 +5,5 @@
 
 ### Algorithms:
 1. https://medium.com/@jonathan_hui/qc-quantum-algorithm-with-an-example-cf22c0b1ec31
+2. Grover: https://medium.com/@jonathan_hui/qc-grovers-algorithm-cd81e61cf248
 
