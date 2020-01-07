@@ -14,3 +14,6 @@
 2. https://www.semanticscholar.org/paper/Application-of-Grover's-Algorithm-on-the-ibmqx4-to-Kirke/
 3. https://quantumcomputingtech.blogspot.com/2018/03/grovers-algorithm-quantum-circuit.html
 
+### Q-Latex
+1. http://ctan.math.washington.edu/tex-archive/graphics/pgf/contrib/quantikz/quantikz.pdf
+
