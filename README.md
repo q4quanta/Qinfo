@@ -16,4 +16,5 @@
 
 ### Q-Latex
 1. http://ctan.math.washington.edu/tex-archive/graphics/pgf/contrib/quantikz/quantikz.pdf
+2. https://github.com/qpic/qpic
 
