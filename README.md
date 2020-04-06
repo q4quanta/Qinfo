@@ -1,6 +1,7 @@
 # q-info
 
 ![img](qc.jpg)
+
 Image Courtesy: [Quantum Computing, Progress and Prospects](https://www.nap.edu/catalog/25196/quantum-computing-progress-and-prospects)
 
 
