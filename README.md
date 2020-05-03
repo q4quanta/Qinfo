@@ -24,3 +24,7 @@ Image Courtesy: [Quantum Computing, Progress and Prospects](https://www.nap.edu/
 1. http://ctan.math.washington.edu/tex-archive/graphics/pgf/contrib/quantikz/quantikz.pdf
 2. https://github.com/qpic/qpic
 
+### IBM 2019 Challange
+1. [IBM Quantum Award Winners Announced](https://www.ibm.com/blogs/research/2020/03/2019-ibmq-awards/)
+2. 
+
