@@ -9,6 +9,7 @@ Image Courtesy: [Quantum Computing, Progress and Prospects](https://www.nap.edu/
 2. https://www.clerro.com/guide/580/quantum-computing-explained
 3. Book online : https://community.qiskit.org/textbook/
 4. Qiskit Documentation: https://qiskit.org/documentation/
+5. ANPA winter school: https://github.com/anpaschool/quantum-computing/tree/master/
 
 ### Algorithms:
 1. Deutsch-Jozsa Algorithm : https://medium.com/@jonathan_hui/qc-quantum-algorithm-with-an-example-cf22c0b1ec31
